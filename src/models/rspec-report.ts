@@ -1,5 +1,5 @@
-import { RspecExample } from "./rspecExample";
-import { RspecSummary } from "./rspecSummary";
+import { RspecExample } from "./rspec-example";
+import { RspecSummary } from "./rspec-summary";
 
 export interface RspecReport {
   version: string;

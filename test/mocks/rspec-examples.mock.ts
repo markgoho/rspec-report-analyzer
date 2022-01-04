@@ -1,3 +1,4 @@
+/* eslint-disable unicorn/no-null */
 /* eslint-disable @typescript-eslint/naming-convention */
 import { RspecExample } from '../../src';
 
@@ -11,7 +12,7 @@ export const rspecExamplesShort: RspecExample[] = [
     file_path:
       './components/benefit_sponsors/spec/controllers/benefit_sponsors/benefit_applications/benefit_applications_controller_spec.rb',
     line_number: 120,
-    run_time: 0.494754656,
+    run_time: 0.494_754_656,
     pending_message: null,
   },
   {
@@ -23,7 +24,7 @@ export const rspecExamplesShort: RspecExample[] = [
     file_path:
       './components/benefit_sponsors/spec/controllers/benefit_sponsors/benefit_applications/benefit_applications_controller_spec.rb',
     line_number: 127,
-    run_time: 0.376605497,
+    run_time: 0.376_605_497,
     pending_message: null,
   },
   {
@@ -35,7 +36,7 @@ export const rspecExamplesShort: RspecExample[] = [
     file_path:
       './components/benefit_sponsors/spec/controllers/benefit_sponsors/benefit_packages/benefit_packages_controller_spec.rb',
     line_number: 117,
-    run_time: 0.512571989,
+    run_time: 0.512_571_989,
     pending_message: null,
   },
   {
@@ -47,7 +48,7 @@ export const rspecExamplesShort: RspecExample[] = [
     file_path:
       './components/benefit_sponsors/spec/controllers/benefit_sponsors/benefit_packages/benefit_packages_controller_spec.rb',
     line_number: 122,
-    run_time: 0.520309035,
+    run_time: 0.520_309_035,
     pending_message: null,
   },
 ];

@@ -1,1 +1,1 @@
-export * from './rspecReportRuntime';
+export * from './rspec-report-runtime';

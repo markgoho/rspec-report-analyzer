@@ -1,2 +1,2 @@
-export * from './rspecExamples.mock';
-export * from './rspecReport.mock';
+export * from './rspec-examples.mock';
+export * from './rspec-report.mock';

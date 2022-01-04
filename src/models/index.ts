@@ -1,3 +1,3 @@
-export * from './rspecExample';
-export * from './rspecReport';
-export * from './rspecSummary';
+export * from './rspec-example';
+export * from './rspec-report';
+export * from './rspec-summary';
